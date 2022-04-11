@@ -13,6 +13,8 @@ The following **required** functionality is completed:
 * [x] User can **view a list of todo items**
 * [x] User can **successfully add and remove items** from the todo list
 * [x] User's **list of items persisted** upon modification and and retrieved properly on app restart
+![mile2](https://user-images.githubusercontent.com/62950655/162839942-af1ec318-d84c-4eb8-98e7-d2ed6d261785.gif)
+
 
 The following **optional** features are implemented:
 
